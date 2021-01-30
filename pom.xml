@@ -74,7 +74,7 @@
     </dependencies>
 
     <build>
-        <finalName>TestSystem</finalName>
+        <finalName>npu</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.tomcat.maven</groupId>
